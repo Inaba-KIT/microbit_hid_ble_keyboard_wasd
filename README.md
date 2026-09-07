@@ -22,4 +22,5 @@ MakeCode でこのリポジトリを編集します。
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
 <img width="4140" height="5224" alt="microbit-microbit_hid_keyboard_middle" src="https://github.com/user-attachments/assets/2320901c-e304-4401-b4ab-abf4c8ea53ed" />
